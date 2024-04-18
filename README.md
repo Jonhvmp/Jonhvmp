@@ -39,3 +39,9 @@
 [![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)](#)
 
 </div>
+
+<div align="center">
+
+  [![Snake animation](https://github.com/Jonhvmp/pac_git_man-user_github-Jonhvmp/blob/main/github-contribution-grid-snake.svg)](#)
+
+</div> 
