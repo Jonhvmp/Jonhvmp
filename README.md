@@ -6,8 +6,8 @@
 <h1> 👨🏽‍💻 GitHub stats </h1>
 <div align="center">
   <a href="https://github.com/Jonhvmp">
-    <img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=Jonhvmp&show_icons=true&theme=dark&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhvmp&layout=compact&langs_count=7&theme=dark"/>
+    <img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=Jonhvmp&show_icons=true&theme=dracula&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhvmp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
