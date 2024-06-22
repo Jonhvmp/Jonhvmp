@@ -1,6 +1,6 @@
 ### Oieeeee! Eu sou o Jonh Alex 🙋🏽‍♂️
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Observando o futuro na tech
 - 🌱 Estudando <strong>JavaScript</strong>  e <strong>Python</strong>
 
 <h1> 👨🏽‍💻 GitHub stats </h1>
