@@ -1,7 +1,7 @@
-### Oieeeee! Eu sou o Jonh Alex 🙋🏽‍♂️
+### Hello! I'm Jonh Alex 🙋🏽‍♂️
 
-- 🔭 Observando o futuro na tech
-- 🌱 Estudando <strong>JavaScript</strong>  e <strong>Python</strong>
+- 🔭 Observing the future in tech
+- 🌱 Studying <strong>JavaScript</strong> and <strong>Python</strong>
 
 <h1> 👨🏽‍💻 GitHub stats </h1>
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<h1 style="text-decoration: none;">👨 Sociais</h1>
+<h1 style="text-decoration: none;">👨 Social</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonhvmp/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jonhvmp)
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-<h1 style="text-decoration: none;"> 🚀 Habilidades </h1>
+<h1 style="text-decoration: none;"> 🚀 Skills </h1>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-<h1>🎮 Jogos </h1>
+<h1>🎮 Games </h1>
 
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](#)
 [![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)](#)
