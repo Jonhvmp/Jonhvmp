@@ -4,11 +4,14 @@
 - 🌱 Studying <strong>JavaScript</strong> and <strong>Python</strong>
 
 <h1> 👨🏽‍💻 GitHub stats </h1>
+<div aling="start">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jonhvmp.dJonhvmp&left_color=green&right_color=darkslateblue"/>
+</div>
+
 <div align="center">
   <a href="https://github.com/Jonhvmp">
     <img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=Jonhvmp&show_icons=true&theme=dracula&count_private=true" />
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhvmp&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jonhvmp.dJonhvmp&left_color=whithe&right_color=darkslateblue"  />
 </div>
 </div>
 
