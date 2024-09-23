@@ -53,9 +53,9 @@
 
 <h2> 🏆 Projects Highlight </h2>
 
-- **[InsightShield](https://github.com/Jonhvmp/InsightShield)**: Personal project focused on financial and personal discipline. Full-stack application built using **Node.js** (Express) and **React**. The app helps users track and organize their financial goals with a visually appealing dashboard and real-time data integration.
+- **[InsightShield](https://github.com/Jonhvmp/InsightShield)**: Personal project focused on financial and personal discipline. Built using **Python**, the app helps users track and organize their financial goals through a simple interface with organizational tools.
 
-- **[JP Store](https://github.com/Jonhvmp/Jp-Store)**: E-commerce platform offering a smooth shopping experience. Built with **React** and **Node.js** (Express), it showcases a dynamic product listing, shopping cart functionality, and product search, providing a modern and responsive user interface. [Live Demo](https://jp-store-two.vercel.app/).
+- **[JP Store](https://github.com/Jonhvmp/Jp-Store)**: E-commerce platform offering a smooth shopping experience. Built with **HTML**, **CSS**, and **JavaScript**, it features a dynamic product listing, shopping cart functionality, and product search. [Live Demo](https://jp-store-two.vercel.app/).
   
 ---
 
