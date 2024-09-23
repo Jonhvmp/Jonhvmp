@@ -55,9 +55,9 @@
 <h2> 🏆 Projects Highlight </h2>
 
 - **[InsightShield](https://github.com/Jonhvmp/InsightShield)**: Personal project focused on financial and personal discipline. Full-stack application built using **Node.js** (Express) and **React**. The app helps users track and organize their financial goals with a visually appealing dashboard and real-time data integration.
-  
-- **[JA Solutions Engine](https://github.com/Jonhvmp/JASolutionsEngine)**: System automation tool that optimizes internal processes for small businesses. Built with **React**, **Node.js**, and **MySQL** for handling data-driven tasks efficiently.
 
+- **[JP Store](https://github.com/Jonhvmp/Jp-Store)**: E-commerce platform offering a smooth shopping experience. Built with **React** and **Node.js** (Express), it showcases a dynamic product listing, shopping cart functionality, and product search, providing a modern and responsive user interface. [Live Demo](https://jp-store-two.vercel.app/).
+  
 ---
 
 <h2> 🎮 Hobbies & Games </h2>
