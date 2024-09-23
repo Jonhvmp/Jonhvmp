@@ -1,7 +1,6 @@
 ### Hello! I'm Jonh Alex 🙋🏽‍♂️
 
 - 💻 Junior Full-Stack Developer specializing in **JavaScript** and **Node.js (Express/Nest)**
-- 🔭 Passionate about fintech and eCommerce projects
 - 🌱 Currently improving my skills in **JavaScript**, **React**, and **Node.js**
 - 🚀 Focused on building scalable applications and optimizing user experiences
 - 👨‍💻 Creator of **InsightShield** and founder of JA Solutions Engine
