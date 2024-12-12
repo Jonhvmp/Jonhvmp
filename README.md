@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL"/>
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" title="Typescript"/>
-  <img src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" title="Mongodb"/>
+  <img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" title="Mongodb"/>
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" title="Next.js"/>
   <img src="https://img.shields.io/badge/Docker-darkblue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
 </div>
