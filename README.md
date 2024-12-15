@@ -72,9 +72,3 @@
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation"/>
   <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" alt="FIFA"/>
 </div>
-
----
-
-<div align="center">
-  <img src="https://github.com/Jonhvmp/pac_git_man-user_github-Jonhvmp/blob/main/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
-</div>
