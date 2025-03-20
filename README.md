@@ -42,7 +42,7 @@
 
   <figure>
     <img 
-      src="https://wakatime.com/share/@Jonhvmp/0496ab4f-d98c-422d-b2f9-eadd286249ee.svg" height="200em">
+      src="https://wakatime.com/share/@Jonhvmp/0496ab4f-d98c-422d-b2f9-eadd286249ee.svg" height="400px">
     </img>
   </figure>
     
