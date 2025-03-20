@@ -3,7 +3,7 @@
 - 💻 Junior Full-Stack Developer specializing in **Typescript** and **Node.js (Express/Nest)**
 - 🌱 Currently improving my skills in **Typescript**, **Next**, and **Node.js**
 - 🚀 Focused on building scalable applications and optimizing user experiences
-- 👨‍💻 Creator of **InsightShield** and founder of JA Solutions Engine
+- 👨‍💻 Creator of **SnapSnippet** and founder of JA Solutions Engine
 
 <div align="center">
   <h2> 📊 GitHub Stats </h2>
@@ -54,7 +54,11 @@
 <h2> 🏆 Projects Highlight </h2>
 
 - **SnapSnippet.**: An efficient tool for creating, organizing, and sharing code snippets. Supporting robust APIs and code validation, the system helps developers manage reusable snippets in a practical way, promoting productivity and collaboration.
-  - <a href="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet"><img src="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet.svg" alt="wakatime"></a>
+  - Development time in the project:<div>
+    <a href="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet">
+      <img src="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet.svg" alt="wakatime">
+    </a>
+  </div>
    
 - **[JS Course](https://www.github.com/jonhvmp/js-course/)**: Course the JavaScript - Full-Stack
 - **[ClientHub](https://clienthub-frontend-gamma.vercel.app/)**: ClientHub is a SaaS application for managing clients, subscriptions, and renewals with an intuitive interface for businesses and individuals.
