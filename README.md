@@ -56,5 +56,5 @@
 - **SnapSnippet.**: An efficient tool for creating, organizing, and sharing code snippets. Supporting robust APIs and code validation, the system helps developers manage reusable snippets in a practical way, promoting productivity and collaboration.
   - <a href="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet"><img src="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet.svg" alt="wakatime"></a>
    
-- **[JS Course](https://www.github.com/jonhvmp/js-course/).**: Course the JavaScript - Full-Stack
-- **[ClientHub](https://clienthub-frontend-gamma.vercel.app/).**: ClientHub is a SaaS application for managing clients, subscriptions, and renewals with an intuitive interface for businesses and individuals.
+- **[JS Course](https://www.github.com/jonhvmp/js-course/)**: Course the JavaScript - Full-Stack
+- **[ClientHub](https://clienthub-frontend-gamma.vercel.app/)**: ClientHub is a SaaS application for managing clients, subscriptions, and renewals with an intuitive interface for businesses and individuals.
