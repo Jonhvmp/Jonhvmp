@@ -66,7 +66,6 @@
       <img src="https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/472252b5-e086-4aaa-8c70-073b71aaeae1.svg" alt="wakatime">
     </a>
   </div>
-  https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/472252b5-e086-4aaa-8c70-073b71aaeae1.svg
    
 - **[JS Course](https://www.github.com/jonhvmp/js-course/)**: Course the JavaScript - Full-Stack
 - **[ClientHub](https://clienthub-frontend-gamma.vercel.app/)**: ClientHub is a SaaS application for managing clients, subscriptions, and renewals with an intuitive interface for businesses and individuals.
