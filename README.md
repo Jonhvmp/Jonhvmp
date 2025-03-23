@@ -87,5 +87,12 @@
       <img src="https://wakatime.com/badge/github/Jonhvmp/js-course.svg" alt="wakatime">
     </a>
   </div>
+
+- **[HackFood](https://hackfood.vercel.app/)**: Full Stack course project, with the theme Combating Food Waste.
+  - Development time in the project:<div>
+    <a href="https://wakatime.com/badge/github/Jonhvmp/projeto-m2-completo">
+      <img src="https://wakatime.com/badge/github/Jonhvmp/projeto-m2-completo.svg" alt="wakatime">
+    </a>
+  </div>
     
 - **[ClientHub](https://clienthub-frontend-gamma.vercel.app/)**: ClientHub is a SaaS application for managing clients, subscriptions, and renewals with an intuitive interface for businesses and individuals.
