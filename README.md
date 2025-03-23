@@ -69,9 +69,9 @@
 
 - **[Chat RealTime](https://github.com/Jonhvmp/fullstack-chat-realtime)**: Real Time Chat System, Technologies Used: Node.js, Express, MongoDB, Socket.IO, Next.js, TailwindCSS, shadcn, TypeScript
   - Development time in the project:<div>
-    <a href="https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/7f82eb62-1998-444a-aeb4-3a268ef4acf2">
-      <img src="https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/7f82eb62-1998-444a-aeb4-3a268ef4acf2.svg" alt="wakatime">
-    </a>
+    <a href="https://wakatime.com/badge/github/Jonhvmp/fullstack-chat-realtime">
+      <img src="https://wakatime.com/badge/github/Jonhvmp/fullstack-chat-realtime.svg" alt="wakatime">
+      </a>
   </div>
 
 - **HelpDesk**: Customer management system, with ticket opening. Roles: Client, Agent, Admin.
@@ -82,4 +82,10 @@
   </div>
    
 - **[JS Course](https://www.github.com/jonhvmp/js-course/)**: Course the JavaScript - Full-Stack
+  - Development time in the project:<div>
+    <a href="https://wakatime.com/badge/github/Jonhvmp/js-course">
+      <img src="https://wakatime.com/badge/github/Jonhvmp/js-course.svg" alt="wakatime">
+    </a>
+  </div>
+    
 - **[ClientHub](https://clienthub-frontend-gamma.vercel.app/)**: ClientHub is a SaaS application for managing clients, subscriptions, and renewals with an intuitive interface for businesses and individuals.
