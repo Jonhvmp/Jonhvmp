@@ -53,6 +53,11 @@
 
 <h2> 🏆 Projects Highlight </h2>
 
+- **[Energy Manager IoT](https://www.npmjs.com/package/energy-manager-iot)**: A Node.js library for efficient energy management in IoT devices through MQTT protocol.
+  - ![Test Coverage](https://img.shields.io/badge/coverage-85.15%25-brightgreen)
+  - ![npm version](https://img.shields.io/npm/v/energy-manager-iot)
+  - ![NPM Downloads](https://img.shields.io/npm/d18m/energy-manager-iot)
+
 - **SnapSnippet**: An efficient tool for creating, organizing, and sharing code snippets. Supporting robust APIs and code validation, the system helps developers manage reusable snippets in a practical way, promoting productivity and collaboration.
   - Development time in the project:<div>
     <a href="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet">
