@@ -59,6 +59,8 @@
   - ![npm version](https://img.shields.io/npm/v/energy-manager-iot)
   - ![NPM Downloads](https://img.shields.io/npm/d18m/energy-manager-iot)
 
+ - **[Template (i18n)](https://github.com/Jonhvmp/template-i18n)**: This project is a ready-to-use template for developing Next.js applications with full internationalization (i18n) support using next-intl.
+
 - **SnapSnippet**: An efficient tool for creating, organizing, and sharing code snippets. Supporting robust APIs and code validation, the system helps developers manage reusable snippets in a practical way, promoting productivity and collaboration.
   - Development time in the project:<div>
     <a href="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet">
