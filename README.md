@@ -1,4 +1,5 @@
 ### Hello! I'm Jonh Alex 🙋🏽‍♂️
+<a href="https://u8views.com/github/Jonhvmp"><img src="https://u8views.com/api/v1/github/profiles/122692601/views/day-week-month-total-count.svg"></a>
 
 - 💻 Junior Full-Stack Developer specializing in **Typescript** and **Node.js (Express/Nest)**
 - 🌱 Currently improving my skills in **Typescript**, **Next**, and **Node.js**
