@@ -51,3 +51,20 @@
   </div>
     
 </div>
+
+---
+
+<h2> 🏆 Projects Highlight </h2>
+
+- **[Docker Pilot](https://www.npmjs.com/search?page=0&q=keywords%3Adocker&sortBy=published_at)**: A comprehensive Docker Compose management toolkit with interactive CLI and programmatic API.
+  - **[📚 Full Documentation](https://jonhvmp.github.io/docker-pilot/)**
+  - ![npm version](https://img.shields.io/npm/v/docker-pilot)
+  - ![NPM Downloads](https://img.shields.io/npm/d18m/docker-pilot)
+
+- **[Energy Manager IoT](https://www.npmjs.com/package/energy-manager-iot)**: A Node.js library for efficient energy management in IoT devices through MQTT protocol.
+  - **[📚 Full Documentation](https://energy-manager-iot.vercel.app/en)**
+  - ![Test Coverage](https://img.shields.io/badge/coverage-85.15%25-brightgreen)
+  - ![npm version](https://img.shields.io/npm/v/energy-manager-iot)
+  - ![NPM Downloads](https://img.shields.io/npm/d18m/energy-manager-iot)
+
+ - **[Template (i18n)](https://github.com/Jonhvmp/template-i18n)**: This project is a ready-to-use template for developing Next.js applications with full internationalization (i18n) support using next-intl.
