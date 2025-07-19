@@ -6,6 +6,8 @@
 - 🚀 Focused on building scalable applications and optimizing user experiences
 - 👨‍💻 Creator of **SnapSnippet** and founder of JA Solutions Engine
 
+[![wakatime](https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306.svg)](https://wakatime.com/@de9af2b7-9619-43d7-bc80-a941858c7306)
+
 <div align="center">
   <h2> 📊 GitHub Stats </h2>
 </div>
@@ -49,64 +51,3 @@
   </div>
     
 </div>
-
-
-
-<h2> 🏆 Projects Highlight </h2>
-
-- **[Docker Pilot](https://www.npmjs.com/search?page=0&q=keywords%3Adocker&sortBy=published_at)**: A comprehensive Docker Compose management toolkit with interactive CLI and programmatic API.
-  - **[📚 Full Documentation](https://jonhvmp.github.io/docker-pilot/)**
-  - ![npm version](https://img.shields.io/npm/v/docker-pilot)
-  - ![NPM Downloads](https://img.shields.io/npm/d18m/docker-pilot)
-
-- **[Energy Manager IoT](https://www.npmjs.com/package/energy-manager-iot)**: A Node.js library for efficient energy management in IoT devices through MQTT protocol.
-  - **[📚 Full Documentation](https://energy-manager-iot.vercel.app/en)**
-  - ![Test Coverage](https://img.shields.io/badge/coverage-85.15%25-brightgreen)
-  - ![npm version](https://img.shields.io/npm/v/energy-manager-iot)
-  - ![NPM Downloads](https://img.shields.io/npm/d18m/energy-manager-iot)
-
- - **[Template (i18n)](https://github.com/Jonhvmp/template-i18n)**: This project is a ready-to-use template for developing Next.js applications with full internationalization (i18n) support using next-intl.
-
-- **SnapSnippet**: An efficient tool for creating, organizing, and sharing code snippets. Supporting robust APIs and code validation, the system helps developers manage reusable snippets in a practical way, promoting productivity and collaboration.
-  - Development time in the project:<div>
-    <a href="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet">
-      <img src="https://wakatime.com/badge/github/Jonhvmp/SnapSnippet.svg" alt="wakatime">
-    </a>
-  </div>
-
-- **[GAT](https://gat-frontend.vercel.app)**: Full-stack showcase website for Industrial Instrumentation products..
-  - Development time in the project:<div>
-    <a href="https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/472252b5-e086-4aaa-8c70-073b71aaeae1">
-      <img src="https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/472252b5-e086-4aaa-8c70-073b71aaeae1.svg" alt="wakatime">
-    </a>
-  </div>
-
-- **[Chat RealTime](https://github.com/Jonhvmp/fullstack-chat-realtime)**: Real Time Chat System, Technologies Used: Node.js, Express, MongoDB, Socket.IO, Next.js, TailwindCSS, shadcn, TypeScript
-  - Development time in the project:<div>
-    <a href="https://wakatime.com/badge/github/Jonhvmp/fullstack-chat-realtime">
-      <img src="https://wakatime.com/badge/github/Jonhvmp/fullstack-chat-realtime.svg" alt="wakatime">
-      </a>
-  </div>
-
-- **HelpDesk**: Customer management system, with ticket opening. Roles: Client, Agent, Admin.
-  - Development time in the project:<div>
-    <a href="https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/d593a655-9c88-49c1-87af-f6a2b04fe24c">
-      <img src="https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306/project/d593a655-9c88-49c1-87af-f6a2b04fe24c.svg" alt="wakatime">
-    </a>
-  </div>
-   
-- **[JS Course](https://www.github.com/jonhvmp/js-course/)**: Course the JavaScript - Full-Stack
-  - Development time in the project:<div>
-    <a href="https://wakatime.com/badge/github/Jonhvmp/js-course">
-      <img src="https://wakatime.com/badge/github/Jonhvmp/js-course.svg" alt="wakatime">
-    </a>
-  </div>
-
-- **[HackFood](https://hackfood.vercel.app/)**: Full Stack course project, with the theme Combating Food Waste.
-  - Development time in the project:<div>
-    <a href="https://wakatime.com/badge/github/Jonhvmp/projeto-m2-completo">
-      <img src="https://wakatime.com/badge/github/Jonhvmp/projeto-m2-completo.svg" alt="wakatime">
-    </a>
-  </div>
-    
-- **[ClientHub](https://clienthub-frontend-gamma.vercel.app/)**: ClientHub is a SaaS application for managing clients, subscriptions, and renewals with an intuitive interface for businesses and individuals.
