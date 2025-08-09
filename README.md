@@ -6,7 +6,8 @@
 - 🚀 Focused on building scalable applications and optimizing user experiences
 - 👨‍💻 Creator of **SnapSnippet** and founder of JA Solutions Engine
 
-[![wakatime](https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306.svg)](https://wakatime.com/@de9af2b7-9619-43d7-bc80-a941858c7306)
+[![wakatime](https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306.svg)](https://wakatime.com/@de9af2b7-9619-43d7-bc80-a941858c7306) <br>
+<img src="https://img.shields.io/badge/full-stack-323330?style=for-the-badge&logo=full-stack&logo" alt="Full-Stack" title="Full-Stack"/>
 
 <div align="center">
   <h2> 📊 GitHub Stats </h2>
@@ -32,24 +33,6 @@
   <a href="https://www.instagram.com/jonhvmp/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</div>
-
-<div align="center">
-  <h2> 🚀 Skills </h2>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/full-stack-323330?style=for-the-badge&logo=full-stack&logo" alt="Full-Stack" title="Full-Stack"/>
-
-  <div align="center">
-    <h3>Languages</h3>
-    <figure>
-      <img 
-        src="https://wakatime.com/share/@Jonhvmp/0496ab4f-d98c-422d-b2f9-eadd286249ee.svg" height="400px">
-      </img>
-    </figure>
-  </div>
-    
 </div>
 
 ---
