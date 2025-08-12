@@ -51,8 +51,3 @@
   - ![NPM Downloads](https://img.shields.io/npm/d18m/energy-manager-iot)
 
  - **[Template (i18n)](https://github.com/Jonhvmp/template-i18n)**: This project is a ready-to-use template for developing Next.js applications with full internationalization (i18n) support using next-intl.
-
----
-<div align="center">
-<a href="https://www.linkedin.com/in/jonhvmp"><img src="https://streak-stats.demolab.com?user=Jonhvmp&theme=dark&border_radius=20.4&short_numbers=true&background=45%2C5236EB94%2C00000088&border=2903EB" alt="GitHub Streak" /></a>
-</div>
