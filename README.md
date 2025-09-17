@@ -4,7 +4,7 @@
 - 💻 Junior Full-Stack Developer specializing in **Typescript** and **Node.js (Express/Nest)**
 - 🌱 Currently improving my skills in **Typescript**, **Next**, and **Node.js**
 - 🚀 Focused on building scalable applications and optimizing user experiences
-- 👨‍💻 Creator of **SnapSnippet** and founder of JA Solutions Engine
+- 👨‍💻 Creator of [**Multify**](https://www.multifyco.com) and founder of JA Solutions Engine
 
 [![wakatime](https://wakatime.com/badge/user/de9af2b7-9619-43d7-bc80-a941858c7306.svg)](https://wakatime.com/@de9af2b7-9619-43d7-bc80-a941858c7306) <br>
 <img src="https://img.shields.io/badge/full-stack-323330?style=for-the-badge&logo=full-stack&logo" alt="Full-Stack" title="Full-Stack"/>
