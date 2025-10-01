@@ -17,6 +17,9 @@
   <a href="https://github.com/Jonhvmp">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jonhvmp&show_icons=true&theme=dracula&count_private=true" alt="Jonh Alex's GitHub Stats"/>
   </a>
+  <a href="https://github.com/Jonhvmp">
+    <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonhvmp&theme=github_dark&utcOffset=8" alt="Commits per day badge"/>
+  </a>
 </div>
 
 <div align="center">
