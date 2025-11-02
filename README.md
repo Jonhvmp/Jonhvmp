@@ -39,6 +39,11 @@
 
 <h2> 🏆 Projects Highlight </h2>
 
+- **[Local Work](https://www.npmjs.com/package/local-work)**: A comprehensive Docker Compose management toolkit with interactive CLI and programmatic API.
+  - **[📚 Full Documentation](https://github.com/Jonhvmp/local-work)**
+  - ![npm version](https://img.shields.io/npm/v/local-work)
+  - ![NPM Downloads](https://img.shields.io/npm/d18m/local-work)
+
 - **[Docker Pilot](https://www.npmjs.com/package/docker-pilot)**: A comprehensive Docker Compose management toolkit with interactive CLI and programmatic API.
   - **[📚 Full Documentation](https://jonhvmp.github.io/docker-pilot/)**
   - ![npm version](https://img.shields.io/npm/v/docker-pilot)
