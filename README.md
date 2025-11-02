@@ -39,7 +39,7 @@
 
 <h2> 🏆 Projects Highlight </h2>
 
-- **[Local Work](https://www.npmjs.com/package/local-work)**: A comprehensive Docker Compose management toolkit with interactive CLI and programmatic API.
+- **[Local Work](https://www.npmjs.com/package/local-work)**: Professional CLI tools for task and note management. Streamline your development workflow with organized tasks, daily notes, and meeting logs.
   - **[📚 Full Documentation](https://github.com/Jonhvmp/local-work)**
   - ![npm version](https://img.shields.io/npm/v/local-work)
   - ![NPM Downloads](https://img.shields.io/npm/d18m/local-work)
