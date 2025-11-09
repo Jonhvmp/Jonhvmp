@@ -41,18 +41,15 @@
 
 - **[Local Work](https://www.npmjs.com/package/local-work)**: Professional CLI tools for task and note management. Streamline your development workflow with organized tasks, daily notes, and meeting logs.
   - **[📚 Full Documentation](https://github.com/Jonhvmp/local-work)**
-  - ![npm version](https://img.shields.io/npm/v/local-work)
-  - ![NPM Downloads](https://img.shields.io/npm/d18m/local-work)
+  - [![NPM](https://nodei.co/npm/local-work.svg?data=d,s)](https://nodei.co/npm/local-work/)
 
 - **[Docker Pilot](https://www.npmjs.com/package/docker-pilot)**: A comprehensive Docker Compose management toolkit with interactive CLI and programmatic API.
   - **[📚 Full Documentation](https://jonhvmp.github.io/docker-pilot/)**
   - ![npm version](https://img.shields.io/npm/v/docker-pilot)
-  - ![NPM Downloads](https://img.shields.io/npm/d18m/docker-pilot)
 
 - **[Energy Manager IoT](https://www.npmjs.com/package/energy-manager-iot)**: A Node.js library for efficient energy management in IoT devices through MQTT protocol.
   - **[📚 Full Documentation](https://energy-manager-iot.vercel.app/en)**
   - ![Test Coverage](https://img.shields.io/badge/coverage-85.15%25-brightgreen)
   - ![npm version](https://img.shields.io/npm/v/energy-manager-iot)
-  - ![NPM Downloads](https://img.shields.io/npm/d18m/energy-manager-iot)
 
  - **[Template (i18n)](https://github.com/Jonhvmp/template-i18n)**: This project is a ready-to-use template for developing Next.js applications with full internationalization (i18n) support using next-intl.
