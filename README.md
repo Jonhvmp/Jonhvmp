@@ -16,10 +16,7 @@
 <div align="center">
   <a href="https://github.com/Jonhvmp">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jonhvmp&show_icons=true&theme=dracula&count_private=true" alt="Jonh Alex's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Jonhvmp">
-    <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonhvmp&theme=github_dark&utcOffset=8" alt="Commits per day badge"/>
-  </a>
+  </a
 </div>
 
 <div align="center">
@@ -38,10 +35,10 @@
 ---
 
 <h2> 🏆 Projects Highlight </h2>
-
+<div align="left">
+  
 - **[Local Work](https://www.npmjs.com/package/local-work)**: Professional CLI tools for task and note management. Streamline your development workflow with organized tasks, daily notes, and meeting logs.
   - **[📚 Full Documentation](https://github.com/Jonhvmp/local-work)**
-  - [![NPM](https://nodei.co/npm/local-work.svg?data=d,s)](https://nodei.co/npm/local-work/)
 
 - **[Docker Pilot](https://www.npmjs.com/package/docker-pilot)**: A comprehensive Docker Compose management toolkit with interactive CLI and programmatic API.
   - **[📚 Full Documentation](https://jonhvmp.github.io/docker-pilot/)**
@@ -53,3 +50,5 @@
   - ![npm version](https://img.shields.io/npm/v/energy-manager-iot)
 
  - **[Template (i18n)](https://github.com/Jonhvmp/template-i18n)**: This project is a ready-to-use template for developing Next.js applications with full internationalization (i18n) support using next-intl.
+
+</div>
